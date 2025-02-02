@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-09-hm",
+  "name": "goit-js-09-hw",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-09-hm/",
+    "build": "vite build --base=/goit-js-09-hw/",
     "preview": "vite preview"
   },
   "devDependencies": {
